@@ -1,0 +1,38 @@
+# Core Python scientific stack
+numpy>=1.26
+pandas>=2.2
+scipy>=1.12
+statsmodels>=0.14
+
+# Machine learning / anomaly detection
+scikit-learn>=1.4
+
+# Data manipulation helpers
+pyjanitor>=0.25
+tqdm>=4.66
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# Database connectors
+sqlalchemy>=2.0
+duckdb>=0.10
+
+# File formats
+pyarrow>=15.0
+fastparquet>=2024.2.0
+openpyxl>=3.1
+
+# Time series & change-point detection
+ruptures>=1.1
+
+# Profiling / data exploration
+ydata-profiling>=4.8
+
+# Environment handling
+python-dotenv>=1.0
+
+# Jupyter support
+jupyterlab>=4.1
+ipykernel>=6.29
