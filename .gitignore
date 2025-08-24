@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Envs
+.env
+.venv/
+.envrc
+
+# Data (don’t push raw/large datasets or DBs)
+data/*.csv
+data/*.parquet
+data/*.xlsx
+data/paysim.sqlite
+
+# Reports (large html exports)
+reports/*.html
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/
