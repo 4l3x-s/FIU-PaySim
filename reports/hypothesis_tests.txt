@@ -1,0 +1,3 @@
+Flagged n=16, Clean n=6353291
+T-test (Welch): stat=-325.1604, p=0
+Mann-Whitney U: stat=49993720.0000, p=0.6057
